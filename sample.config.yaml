@@ -1,0 +1,8 @@
+port: 8494
+debug: true
+db_uri: "sqlite://db.sqlite"
+secret_key: "something"
+notify_buffer: 10
+clean_interval: 15
+gh_oauth_client_id: "Ov23licDfVR4J8iJV4wv"
+gh_oauth_client_secret: "771"
